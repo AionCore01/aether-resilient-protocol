@@ -54,7 +54,7 @@ HF/VHF como canal físico de transmisión.
 Construyo desde Argentina, donde la infraestructura frágil no es un 
 escenario hipotético. Este proyecto nació de una necesidad real.
 
-→ [Seguime en Paragraph](https://paragraph.xyz/@kalinur)
+→ [Seguime en Paragraph](https://paragraph.com/@aurea-protocol)
 
 ---
 
