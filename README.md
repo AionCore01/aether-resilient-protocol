@@ -39,20 +39,14 @@ HF/VHF como canal físico de transmisión.
 
 ---
 
-## Estado actual
-
-**Fase:** Exploración inicial — Era Fénix  
-**Inicio:** Marzo 2026  
-**Timeline:** ~3 años (PoC → Testnet → Mainnet)  
-**Ritmo:** progresivo, con intención
-
-- [x] Investigación técnica (estado del arte)
-- [x] Arquitectura de 3 capas diseñada
-- [x] Simulación de Proof of Relay iniciada
-- [ ] Demo TX vía AX.25
-- [ ] Whitepaper formal
-
----
+- ✅ Investigación técnica (estado del arte)
+- ✅ Arquitectura de 3 capas diseñada
+- ✅ Protocolo ProximityFrame + firmas Ed25519 — estable, probado en canal ruidoso
+- ✅ Interfaz Transport abstraída (send_frame / poll_frames)
+- ✅ TransportSimulatedProximity — funcional para Colab
+- ✅ TransportAudioGGWave — esqueleto listo para ggwave
+- ⏳ Demo TX vía AX.25 con Dire Wolf
+- ⏳ Whitepaper formal
 
 ## Quién lo construye
 
